@@ -1,4 +1,4 @@
-# ClubGPL
+# ClubGPLStok
 
 ClubGPL is a Python-based application developed as part of my Software Engineering learning process.
 The project focuses on basic application logic, data handling, and simple stock management features.
