@@ -19,9 +19,6 @@ The project focuses on basic application logic, data handling, and simple stock 
 - SQLite (or local database storage)
 - GitHub for version control
 
-## How to Run
-1. Make sure Python is installed on your system
-2. Download or clone this repository
-3. Run the application using:
-   ```bash
-   python main.py
+## Status
+Finished
+
